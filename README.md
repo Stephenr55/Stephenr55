@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image title](https://rushter.com/counter.svg)
+
 <!--
 **Stephenr55/Stephenr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
