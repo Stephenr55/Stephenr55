@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image title](https://rushter.com/counter.svg)
+[![HitCount](http://hits.dwyl.com/ Stephenr55/Stephenr55.svg)](http://hits.dwyl.com/ Stephenr55/Stephenr55)
 
 <!--
 **Stephenr55/Stephenr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
