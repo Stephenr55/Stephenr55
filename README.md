@@ -4,7 +4,7 @@
 -->
 ![Profile views](https://gpvc.arturio.dev/Stephenr55)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenr55)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephenr55)
 
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
