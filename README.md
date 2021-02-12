@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 [![HitCount](http://hits.dwyl.com/Stephenr55/Stephenr55.svg)](http://hits.dwyl.com/Stephenr55/Stephenr55)
-
+-->
 ![Profile views](https://gpvc.arturio.dev/Stephenr55)
 
 
